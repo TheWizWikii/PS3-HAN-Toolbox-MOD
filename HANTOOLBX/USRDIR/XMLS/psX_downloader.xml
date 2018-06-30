@@ -1,0 +1,64 @@
+<XMBML version="1.0">
+	<View id="psX_downloader_items">
+		<Attributes>
+		<!-- Porfabor si tomas mi contenido da creditos a mi canal de YouTube 15sallayin15 -->
+			<Table key="PSX_downloader_EU">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_eu.png</String></Pair>
+				<Pair key="title"><String>Juegos EU</String></Pair>
+				<Pair key="info"><String>184 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="PSX_downloader_HK">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_hk.png</String></Pair>
+				<Pair key="title"><String>Juegos HK</String></Pair>
+				<Pair key="info"><String>5 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="PSX_downloader_JP">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_jp.png</String></Pair>
+				<Pair key="title"><String>Juegos JP</String></Pair>
+				<Pair key="info"><String>398 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="PSX_downloader_US">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/folder_us.png</String></Pair>
+				<Pair key="title"><String>Juegos US</String></Pair>
+				<Pair key="info"><String>138 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="PSN_Sallayin">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/CD.png</String></Pair>
+				<Pair key="title"><String>Juegos PKG (by S4||4y1N)</String></Pair>
+				<Pair key="info"><String>12 Juegos Disponibles</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="PSX_downloader_EU" 
+				attr="PSX_downloader_EU"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/PSX/psxgame_eu.xml#psxgame_eu_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="PSX_downloader_HK" 
+				attr="PSX_downloader_HK"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/PSX/psxgame_hk.xml#psxgame_hk_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="PSX_downloader_JP" 
+				attr="PSX_downloader_JP"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/PSX/psxgame_jp.xml#psxgame_jp_main"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="PSX_downloader_US" 
+				attr="PSX_downloader_US"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/PSX/psxgame_us.xml#psxgame_us_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="PSN_Sallayin" 
+				attr="PSN_Sallayin"
+				src="xmb://localhost/dev_hdd0/game/HANTOOLBX/USRDIR/XMLS/PSX/psxgame_youtube.xml#psxgame_sallayin_main"
+				/>	
+		</Items>
+	</View>	
+</XMBML>

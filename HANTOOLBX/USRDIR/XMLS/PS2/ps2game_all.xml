@@ -1,0 +1,33 @@
+<XMBML version="1.0">
+<!--- PKG ITEM--->
+	<View id="ps2game_all_main">
+		<Attributes>
+			<Table key="ps2game_all_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/PS2 System DATA.png</String></Pair>
+				<Pair key="title"><String>PS2 System DATA</String></Pair>
+				<Pair key="info"><String>NPIA00001 - 6.48 MB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_all_item_1" attr="ps2game_all_item_1" src="#ps2game_all_link_1_main"/>
+		</Items>
+	</View>
+
+<!--- PKG LINK--->
+    <View id="ps2game_all_link_1_main"> 
+		<Attributes> 
+			<Table key="ps2game_all_link_1"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/IP9100/NPIA00001_00/puP23y2qefPKufNC0ObTDdSstPVgrrq7fUsEALPDYCuNoNp5AyW2TW5O2XPReYTSJ3x8e0vV3stf2DfNrO3d4xjgUx3SybiR8GNFd.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/IP9100/NPIA00001_00/puP23y2qefPKufNC0ObTDdSstPVgrrq7fUsEALPDYCuNoNp5AyW2TW5O2XPReYTSJ3x8e0vV3stf2DfNrO3d4xjgUx3SybiR8GNFd.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>IP9100-NPIA00001_00-PS2HDDSYSDAT0001</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/PS2 System DATA.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_all_link_1" attr="ps2game_all_link_1"/> 
+		</Items> 
+	</View>
+
+</XMBML>

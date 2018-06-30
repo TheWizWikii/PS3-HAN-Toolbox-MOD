@@ -1,0 +1,200 @@
+<XMBML version="1.0">
+	<!-- dlc USA -->
+	<View id="Contenido_DLC_US_items">
+		<Attributes>
+			<Table key="Contenido_DLC_US_item_0"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/dlc_images/annihilation.png</String></Pair> 
+				<Pair key="title"><String>Annihilation</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 1655,43 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_1"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/dlc_images/escalation.png</String></Pair> 
+				<Pair key="title"><String>Escalation</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 2354,92 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_2"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/dlc_images/firststrike.png</String></Pair> 
+				<Pair key="title"><String>First Strike</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 1694,91 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_3"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/dlc_images/rezurrection.png</String></Pair> 
+				<Pair key="title"><String>Rezurrection</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 744,19 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_4"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/dlc_images/zombis.png</String></Pair> 
+				<Pair key="title"><String>Zombies Mapas Classicos</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 1078,03 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_5"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/dlc_images/007reloaded.png</String></Pair> 
+				<Pair key="title"><String>007 GoldenEye: Reloaded - Emilio Largo</String></Pair> 
+				<Pair key="info"><String>BLUS30755</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_6"> 
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/dlc_images/007reloaded.png</String></Pair> 
+				<Pair key="title"><String>007 GoldenEye: Reloaded - Pussy Galore</String></Pair> 
+				<Pair key="info"><String>BLUS30755</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_0" 
+				attr="Contenido_DLC_US_item_0" 
+				src="#Contenido_DLC_US_item_0_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_1" 
+				attr="Contenido_DLC_US_item_1" 
+				src="#Contenido_DLC_US_item_1_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_2" 
+				attr="Contenido_DLC_US_item_2" 
+				src="#Contenido_DLC_US_item_2_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_3" 
+				attr="Contenido_DLC_US_item_3" 
+				src="#Contenido_DLC_US_item_3_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_4" 
+				attr="Contenido_DLC_US_item_4" 
+				src="#Contenido_DLC_US_item_4_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_5" 
+				attr="Contenido_DLC_US_item_5" 
+				src="#Contenido_DLC_US_item_5_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_6" 
+				attr="Contenido_DLC_US_item_6" 
+				src="#Contenido_DLC_US_item_6_link" 
+			/>
+		</Items>
+	</View>
+
+	<View id="Contenido_DLC_US_item_0_link"> 
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_0"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/cTsAlOMmWAnMRzOwGlYLfrpKtVKaSADUCRzCiwwxpUYTkYBvJrhsQWGDgJFizuRIFBtdArRIDsMToZibSHaudTlQwvBlXCDnyWRFI.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/cTsAlOMmWAnMRzOwGlYLfrpKtVKaSADUCRzCiwwxpUYTkYBvJrhsQWGDgJFizuRIFBtdArRIDsMToZibSHaudTlQwvBlXCDnyWRFI.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLC04</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_0" attr="Contenido_DLC_US_link_0"/> 
+		</Items> 
+	</View>
+
+	<View id="Contenido_DLC_US_item_1_link"> 
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_1"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/CCfYEUcXDaMRmBiIWgEfRGNaPrpgesbZIdForTTUKNUgyoGkTsbzvPTxWerEAVCpJXnvHUIZjZfElIEknipHmzdVbGGOwbxIZnNcU.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/CCfYEUcXDaMRmBiIWgEfRGNaPrpgesbZIdForTTUKNUgyoGkTsbzvPTxWerEAVCpJXnvHUIZjZfElIEknipHmzdVbGGOwbxIZnNcU.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLC03</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_1" attr="Contenido_DLC_US_link_1"/> 
+		</Items> 
+	</View>
+
+	<View id="Contenido_DLC_US_item_2_link"> 
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_2"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/vJRVGKbIHJoutbtOKPCddxpdUPzSSFmNoXfSHstUuFjbhvhdYtQdPEdUBJvliujTaohfzmOlWBUQrAhlJtCAfYzHHXRZEcwgGdtNR.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/vJRVGKbIHJoutbtOKPCddxpdUPzSSFmNoXfSHstUuFjbhvhdYtQdPEdUBJvliujTaohfzmOlWBUQrAhlJtCAfYzHHXRZEcwgGdtNR.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLC02</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_2" attr="Contenido_DLC_US_link_2"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_3_link"> 
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_3"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/BqhPapldVgemWrKhIUCYbqVhkWOaHKYsMJTlBHKwaWNGrLluBWRpozIvMzWdhYHYloAfjexWpYprNUedfKfGlsNjWjbizCePxYCZy.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/BqhPapldVgemWrKhIUCYbqVhkWOaHKYsMJTlBHKwaWNGrLluBWRpozIvMzWdhYHYloAfjexWpYprNUedfKfGlsNjWjbizCePxYCZy.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLC05</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_3" attr="Contenido_DLC_US_link_3"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_4_link"> 
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_4"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/DAFVgH57mq4BINEhRPuyK0u8WRRcsojSq8SjcF3OYrSSe16rKt26KDhtkNdsHlyd0XlhqNSGVKofm6wGMvJSXt9OTGkMhcaQDTWMr.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/DAFVgH57mq4BINEhRPuyK0u8WRRcsojSq8SjcF3OYrSSe16rKt26KDhtkNdsHlyd0XlhqNSGVKofm6wGMvJSXt9OTGkMhcaQDTWMr.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLCZ1</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_4" attr="Contenido_DLC_US_link_4"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_5_link"> 
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_5"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30755_00/nDLrlSwjNszHkxDeCGeNmjGaVCKbHvRpzuhvxluHSOPWGUKBBlbFlYnKtxjncHuwpkzJYrIfuEkVDBDTisebFuFRkVdpZNuxNLHJc.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30755_00/nDLrlSwjNszHkxDeCGeNmjGaVCKbHvRpzuhvxluHSOPWGUKBBlbFlYnKtxjncHuwpkzJYrIfuEkVDBDTisebFuFRkVdpZNuxNLHJc.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0002-BLUS30755_00-BOND2011LARGDLC2</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_5" attr="Contenido_DLC_US_link_5"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_6_link"> 
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_6"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30755_00/koSGIlSqGlcIQsmQngxFxAMUtQpYQVJHoTRujtKrgWEJPsyAVxSBjEdUOcGEFAFZNWCdPrggXRljiuXgDbWRFSDOjJVgJtnxoMvOX.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30755_00/koSGIlSqGlcIQsmQngxFxAMUtQpYQVJHoTRujtKrgWEJPsyAVxSBjEdUOcGEFAFZNWCdPrggXRljiuXgDbWRFSDOjJVgJtnxoMvOX.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0002-BLUS30755_00-BOND2011GALODLC3</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_6" attr="Contenido_DLC_US_link_6"/> 
+		</Items> 
+	</View>
+
+</XMBML>
+

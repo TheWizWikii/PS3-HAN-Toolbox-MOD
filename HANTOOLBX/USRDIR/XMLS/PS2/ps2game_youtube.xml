@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XMBML version="1.0">
+	<View id="ps2game_sallayin_main">
+		<Attributes>
+		    <Table key="PS2_0">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/carbon.png</String></Pair>
+				<Pair key="title"><String>Need for Speed: Carbon</String></Pair>
+				<Pair key="info"><String>SCUS94424 - 3.46 GB</String></Pair>
+ 			</Table>
+			<Table key="PS2_1">
+				<Pair key="icon"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/mostwanted.png</String></Pair>
+				<Pair key="title"><String>Need for Speed: Most Wanted</String></Pair>
+				<Pair key="info"><String>SCUS94426 - 3.47 GB</String></Pair>
+ 			</Table>
+		</Attributes>
+			<Items>
+			    <Query
+			        class="type:x-xmb/folder-pixmap"
+			        key="PS2_0"
+			        attr="PS2_0"
+					src="#PS2_0_item"
+			    />
+				<Query
+			        class="type:x-xmb/folder-pixmap"
+			        key="PS2_1"
+			        attr="PS2_1"
+					src="#PS2_1_item"
+			    />
+		    </Items>
+		</View>
+	<View id="PS2_0_item">
+        <Attributes>
+            <Table key="PS2_0_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/8hqcx9x9zufrcbk/UP0000-SLUS21494_00-PS2CLASSICS00000%28Need%20for%20Speed%20Carbon%29.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/8hqcx9x9zufrcbk/UP0000-SLUS21494_00-PS2CLASSICS00000%28Need%20for%20Speed%20Carbon%29.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21494_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/carbon.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="PS2_0_link" attr="PS2_0_link"/>
+        </Items>
+    </View>
+
+	<View id="PS2_1_item">
+        <Attributes>
+            <Table key="PS2_1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://dl.dropboxusercontent.com/s/8iy5rmlo0j6qb2i/UP0000-SLUS21267_00-PS2CLASSICS00000%28NFS-Most-Wanted%29.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://dl.dropboxusercontent.com/s/8iy5rmlo0j6qb2i/UP0000-SLUS21267_00-PS2CLASSICS00000%28NFS-Most-Wanted%29.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP0000-SLUS21267_00-PS2CLASSICS00000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/PS2/mostwanted.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="PS2_1_link" attr="PS2_1_link"/>
+        </Items>
+    </View>
+	
+</XMBML>
