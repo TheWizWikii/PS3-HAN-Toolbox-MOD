@@ -10,16 +10,16 @@ Esto es una Freeshop / Store donde podrás descargar juegos directamente desde t
 
 ### Credits:
 
-- ***#PS3XploitTeam**
-- ***#DeVil303**
-- ***#pink1**
-- ***#misterota**
-- ***#Alex**
-- ***#DH**
-- ***#Comunidad-Gamer**
-- ***#RC**
-- ***#15Say15**
-- ***#y a toda la comunidad de PS3**
+- **#PS3XploitTeam**
+- **#DeVil303**
+- **#pink1**
+- **#misterota**
+- **#Alex**
+- **#DH**
+- **#Comunidad-Gamer**
+- **#RC**
+- **#15Say15**
+- **#y a toda la comunidad de PS3**
 
 ---
 
