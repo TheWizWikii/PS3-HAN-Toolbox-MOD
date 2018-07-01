@@ -27,4 +27,4 @@ Esto es una Freeshop / Store donde podrás descargar juegos de PSNStuff directam
 
 ### Compilar:
 
-*Este source requiere ser compilado con true ancestor para crear el PKG instalable*
+*Este source requiere ser compilado con true ancestor para crear el PKG instalable*. Pero si lo deseas puedes descargar desde aqui la ultima versión complilada lista para instalar: https://github.com/CYB3R187/HAN-Toolbox-MOD/releases
