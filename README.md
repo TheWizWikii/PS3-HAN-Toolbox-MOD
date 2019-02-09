@@ -23,6 +23,7 @@ Esto es una Freeshop / Store donde podrás descargar juegos de PSNStuff directam
 - **#Comunidad-Gamer**
 - **#RC**
 - **#15Say15**
+- **#lmn7**
 - **#y a toda la comunidad de PS3**
 
 ---
