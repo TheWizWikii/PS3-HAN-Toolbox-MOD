@@ -18,15 +18,15 @@ siguientes firmwares: 4.81 - 4.82 - 4.83 - 4.84
 ### Credits:
 
 - **#PS3XploitTeam** (esc0rtd3w - Habib - bguerville)
-- **#DeVil303**
-- **#pink1**
-- **#misterota**
+- **#DeVil303** (Oficial HAN Toolbox)
+- **#pink1** (Oficial HAN Toolbox)
+- **#misterota** (support)
 - **#Alex**
 - **#DH**
-- **#Berion**
-- **#ShaolinAssassin**
-- **#lmn7**
-- **#Joonie** (HFW 4.84.2)
+- **#Berion** (some icons)
+- **#ShaolinAssassin** (contribution in HAN Toolbox)
+- **#lmn7** (Exploits Offline)
+- **#Joonie** (HFW 4.84.2 and contributions)
 - **#y a toda la comunidad de PS3**
 
 ---
