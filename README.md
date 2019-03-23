@@ -3,7 +3,7 @@
 
 ### Que és:
 
-Versión modificada del HAN Toolbox Original (complemento para PS3Xploit)
+Versión modificada del HAN Toolbox Original (complemento no oficial para PS3Xploit)
 Esto es una Freeshop / Store donde podrás descargar juegos de PSNStuff directamente desde tu consola PS3 (requiere act.dat y idps.hex para activar las licencias (raps) 
 
 ### En qué consolas y firmwares funciona:
