@@ -4,11 +4,11 @@
 ### Que és:
 
 Versión modificada del HAN Toolbox Original (complemento no oficial para PS3Xploit)
-Esto es una Freeshop / Store donde podrás descargar juegos de PSNStuff directamente desde tu consola PS3 (requiere act.dat y idps.hex para activar las licencias (raps). Además podrás hacer uso de todos los exploits desde el menu XMB sin la necesidad de acceder al navegador de internet de la consola o usar un pc (local host).
+Esto es una Fr33shop / Store donde podrás descargar juegos de P$N directamente desde tu consola PS3 (requiere act.dat y idps.hex para activar las licencias (raps). Además podrás hacer uso de todos los exploits desde el menu XMB sin la necesidad de acceder al navegador de internet de la consola o usar un pc (local host).
 
 ### En qué consolas y firmwares funciona:
 
-Esta versión de HAN Toolbox MOD v2.0 es compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en los
+Esta versión de HAN Toolbox MOD es compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en los
 siguientes firmwares: 4.81 - 4.82 - 4.83 - 4.84
 
 ![PS3 TOOLBOX MOD](https://i.imgur.com/SKO39bD.png)
@@ -27,6 +27,7 @@ siguientes firmwares: 4.81 - 4.82 - 4.83 - 4.84
 - **#ShaolinAssassin** (contribution in HAN Toolbox)
 - **#lmn7** (Exploits Offline)
 - **#Joonie** (HFW 4.84.2 and contributions)
+- **#PSX-PLACE** (long contribution in PS3 Scene)
 - **#y a toda la comunidad de PS3**
 
 ---
